@@ -9,15 +9,19 @@ The script includes input data such as bus data, generator data, line data, capa
 #Admittance Matrix Calculation:
 
 Calculates the admittance matrix for the power system based on the provided line and bus data.
+
 #Gauss-Seidel Iteration:
 
 Performs Gauss-Seidel iterations to solve for the bus voltages and angles using the power flow equations.
+
 #Line Flows:
 
 Calculates the active and reactive power flows in the transmission lines.
+
 #Generator Power Outputs:
 
 Determines the active and reactive power outputs of the generators in the system.
+
 #Results Display:
 
 Displays the calculated results, including bus voltage magnitudes and angles, generator power outputs, line power flows, and the bus admittance matrix.
